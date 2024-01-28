@@ -2,10 +2,6 @@
   <head>
   </head>
   <body>
-    <div class="hello">
-        <img src="hello.jpeg">
-    </div>
-        <hr>
         <div class="introdution">
             <span id="english" class="card2"><h2> US: </h2><hr><br>
             <p>Hello and Welcome! to my Github repository. I'm Adam and I'm looking to collaborate on something that i can improve my coding skills </p>
