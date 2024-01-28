@@ -13,8 +13,8 @@
         <hr>
     <div class="container">
         <b id="skills">CURRENT SKILLS:</b><br>
-        <span id="item01" class="boxin">HTML <br> 5</span>
-        <span id="item02" class="boxin">CSS <br> 3</span>
+        <span id="item01" class="boxin">HTML 5</span>
+        <span id="item02" class="boxin">CSS 3</span>
     </div>
   </body>
 </html>
